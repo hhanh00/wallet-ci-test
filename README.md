@@ -21,3 +21,7 @@ Example:
     DESTINATION_ADDRESS: uregtest1ur83jamvhc5pwe8xzlu9d8ur4mxmny385mhlurxh5z00e6vhcf9zk0dncar334n0ucskdya9ytdrvzucprqjrhy7hd6rkklp0q6eyxp5
 ```
 
+> The workflow builds zebra/zaino/zkool binaries from
+source then caches the results. The first usage
+will take ~30 minutes but then the following ones
+only a few minutes.
